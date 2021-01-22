@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    color: aqua;
+}
+
+#Partnerships:hover {
+    color: yellow
+}
+
+#About:hover {
+    color: yellow;
+}
+
+#Tournaments:hover {
+    color: yellow;
+}
+
+#Tournaments:hover {
+    color: yellow;
+}
+
+#ContactUs:hover {
+    color: yellow;
+}
+
+#Tips:hover {
+    color: yellow;
+}
+
+#Apps:hover {
+    color: yellow;
+}
+
+#Welcome img:hover {
+    src: url(https://cdn.discordapp.com/emojis/801258674097356800.png?v=1)
+}
+
+.link {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+
+.link:hover {
+    background-color: aqua;
+    text-decoration: underline;
+}
+
+#Welcome h1{
+    font-size: 200%;
+    text-align: center;
+    background-image: image(https: //cdn.discordapp.com/emojis/790345223204896768.png?v=1)
+    }
+#Welcome img{
+    width: 700px;
+    height: 600px;
+text-align: center;
+    align-content: center;
+}
+body{
+    text-align: center;
+}
